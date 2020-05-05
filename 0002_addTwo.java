@@ -53,9 +53,7 @@ class Solution {
             n = n.next;
             //if (debug) { System.out.println(sum + " " + sum%10); }
         }
-        
         return r;
-        
     }
 }
 

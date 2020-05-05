@@ -1,3 +1,5 @@
+// tried to google hashes for the longest time, but only hashMap and hashTable surfaced. What I should've found was hashSet!
+
 class Solution {
     boolean debug = false;
     public int lengthOfLongestSubstring(String s) {
