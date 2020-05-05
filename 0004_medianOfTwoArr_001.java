@@ -1,5 +1,6 @@
 /*
 Faulty version, I misunderstood the question?
+How does [3] & [-2, -1] result in -1?
 
 https://www.tutorialspoint.com/intstream-average-method-in-java
 
